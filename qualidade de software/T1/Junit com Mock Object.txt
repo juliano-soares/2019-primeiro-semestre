@@ -1,0 +1,9 @@
+Enunciado: O grupo deve escolher e pesquisar sobre um dos itens 
+abaixo listados. Precisa explicar a tecnologia e mostrar exemplos 
+de códigos fontes funcionais que foram testados e usados pelo grupo. 
+Elaborar uma apresentação para a turma contendo todas essas informações. 
+Essa apresentação deverá ser submetida via Moodle em link apropriado.
+
+
+escolhemos 
+Junit com Mock Object	

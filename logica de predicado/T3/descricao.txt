@@ -1,0 +1,35 @@
+Terceiro Trabalho
+I – Considerando que Maria e Mário brigaram:
+
+“Supõe-se que Maria está em tal situação que ela estaria disposta a perdoar 
+Mário, só se Mário estivesse disposto a perdoá-la; e que Mário está em tal 
+situação que ele não estaria disposto a perdoar Maria, se Maria estivesse 
+disposta a perdoá-lo, mas estaria disposto a perdoar Maria, se Maria não 
+estivesse disposta a perdoá-lo.”
+
+Considerando:
+
+P1 : “Supõe-se que Maria está em tal situação que ela estaria disposta a 
+perdoar Mário, só se Mário estivesse disposto a perdoá-la;”
+
+P2 : “Mário está em tal situação que ele não estaria disposto a perdoar Maria, 
+se Maria estivesse disposta a perdoá-lo, mas estaria disposto a perdoar Maria, 
+se Maria não estivesse disposta a perdoá-lo.”
+
+Responda,utilizando o método do Teorema da Contradição, a seguinte pergunta:
+
+(Q)             Maria está disposta a perdoar Mário?
+
+ 
+
+II – Considerando as seguintes proposições:
+
+P1: “Se está quente e seco, então terá sol.”
+
+P2: “Se está seco, então está quente.”
+
+P3: “Está seco agora.”
+
+Responda, utilizando o método do Teorema da Dedução, a seguinte pergunta:
+
+ (Q)              Vai ter sol?

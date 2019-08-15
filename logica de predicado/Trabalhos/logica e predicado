@@ -1,0 +1,36 @@
+"Alguns comentaristas de futebol gostam de todos os jogadores da Seleção Brasileira. Nenhum comentarista de futebol gosta de jogadores incompetentes. Portanto, nenhum jogador da Seleção Brasileira é um jogador incompetente.”
+
+Considerar o Universo de pessoas.
+
+I – Passar para a forma simbólica:
+
+Universo de pessoas.
+(∀x) - Universal
+(∃x) - Existencial
+
+P(x) - comentaristas de futebol  
+Q(x) - jogadores da Seleção Brasileira
+R(x) - jogadores incompetentes
+G(x,y) - x gostar de y
+
+Alguns comentaristas de futebol gostam de todos os jogadores da Seleção Brasileira.
+((∃x)(P(x)^((∀y)(Q(y)->G(x,y)))))
+
+Nenhum comentarista de futebol gosta de jogadores incompetentes.
+~((∃x)(P(x)^((∀y)(R(y)->G(x,y)))))
+
+Portanto, nenhum jogador da Seleção Brasileira é um jogador incompetente.”
+(∀x)~(Q(x)->R(x))
+
+((∃x)(P(x)^((∀y)(Q(y)->G(x,y)))) ^ ~((∀x)(P(x)^((∃x)( R(y) -> G(x,y))))))  -> (∀x)~(Q(x)->R(x))
+
+
+II – Fazer a negação e passar para linguagem natural.
+
+~[ ((∃x)(P(x)^((∀y)(Q(y)->G(x,y))))) ^ ~((∀x)(P(x)^((∃x)(R(y)->G(x,y)))))  -> (∀x)~(Q(x)->R(x)) ] <-> Def. Implicacao
+~[  ~(∃x)(P(x)^((∀y)(Q(y)->G(x,y)))) V ((∀x)(P(x)^((∃x)(R(y)->G(x,y))))) v (∀x)~(Q(x)->R(x)) ] 	<-> leis de Morgan
+ ~~(∃x)(P(x)^((∀y)(Q(y)->G(x,y)))) ^ ~((∀x)(P(x)^((∃x)(R(y)->G(x,y))))) ^ ~(∀x)~(Q(x)->R(x)) ] 	<-> leis de Morgan
+(∃x)(P(x)^((∀y)(Q(y)->G(x,y)))) ^ ~((∀x)(P(x)^((∃x)(R(y)->G(x,y))))) ^ (∃x)~~(Q(x)->R(x)) 			<-> negacao
+(∃x)(P(x)^((∀y)(Q(y)->G(x,y)))) ^ ~((∀x)(P(x)^((∃x)(R(y)->G(x,y))))) ^ (∃x)(Q(x)->R(x))
+
+Alguns comentaristas de futebol gostam de todos os jogadores da Seleção Brasileira. Nenhum comentarista de futebol gosta de jogadores incompetentes. Algum jogador da Seleção Brasileira é um jogador incompetente.

@@ -1,0 +1,37 @@
+Segunda Avaliação - TRABALHO EM PROLOG
+- Formar grupos de até 4 alunos;                         
+
+- Selecionar um Tópico para a Base de Conhecimento a ser programada em PROLOG;
+
+- Um dos softwares utilizados é o SWI-Prolog;
+
+- Criar a Base de Conhecimento formada por um conjunto de fatos e regras (cláusulas);
+
+ 
+
+- Tópicos para Bases de Conhecimento:
+
+1. Universidade - cursos de graduação - professores - alunos...
+
+2. Continente - países - estados - capitais...
+
+3. Biblioteca - livros - autores - livros de Informática...
+
+4. Alfabeto - palavras - letras - classes...
+
+5. Mapa de estradas - estados - cidades - distâncias entre cidades...
+
+6. Futebol - times de futebol - jogadores...
+
+7. Música - categorias - autores - bandas - instrumentos...
+
+8. Gema preciosa - tipos - características - locais de origem...
+
+9. Mobiliário de residência - categorias - utilidades - materiais... 
+
+
+
+
+- Acrescentar questões de acordo com a Base de Conhecimento selecionada e relacionar com as respostas;
+
+- O programa deverá conter, ainda, regras recursivas.

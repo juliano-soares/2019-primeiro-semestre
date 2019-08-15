@@ -1,0 +1,11 @@
+Primeiro Trabalho - 2ª Avaliação
+- Dada a seguinte sentença:
+“Alguns comentaristas de futebol gostam de todos os jogadores da Seleção 
+Brasileira. Nenhum comentarista de futebol gosta de jogadores incompetentes. 
+Portanto, nenhum jogador da Seleção Brasileira é um jogador incompetente.”
+
+Considerar o Universo de pessoas.
+
+I – Passar para a forma simbólica:
+
+II – Fazer a negação e passar para linguagem natural.

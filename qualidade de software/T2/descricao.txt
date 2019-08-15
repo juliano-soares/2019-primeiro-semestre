@@ -1,0 +1,16 @@
+Enunciado: Utilizar a API Selenium Webdriver com Junit e Java para 
+testar os componetes das aplicações Web (sites) abaixo relacionados.		
+Regras: a) no máximo em grupos de 4 pessoas; b) apresentar o trabalho 
+para a turma; c) submeter diretório com os arquivos de classes .java 
+ou outros recursos se necessário via moodle; d) Devem ser testados 
+no mínimo 10 componentes em cada site. e) Os componentes testados 
+devem ser distintos, isto é, não se pode testar 10 comboboxes ou 10 botões. 
+A replicação máxima de itens testados deve ser no máximo igual a 2, ou seja, 
+pode-se testar no máximo, por exemplo, dois buttons. f) Cada dupla ou 
+indivíduo comunica qual site abaixo quer testar. Um mesmo site não pode 
+ser testado por pessoas ou duplas diferentes. g) Cada componente deve 
+ser testado em diversas situações. Ex: ver se está presente, qual seu 
+conteúdo, a ordem do conteúdo e etc.
+
+Escolhemos
+https://www.ufsm.br/

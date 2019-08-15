@@ -1,0 +1,13 @@
+Enunciado: Pesquisar os itens abaixo elencados.			
+Regras: 
+a) no máximo em grupos de 4 pessoas; 
+b) apresentar o trabalho para a turma; 
+c) submeter apresentação em .PDF via moodle; 
+d) Um mesmo item não pode ser testado por pessoas ou duplas diferentes. 
+e) Estrutura mínima da apresentação: Introdução, aprofundamento do assunto, 
+conclusão e referências bibliográficas. 
+f) A apresentação deverá conter pelo menos 30 slides de conteúdo.
+
+Escolhemos
+4 - SPICE – Software Process Improvement and Capability 
+dEtermination (ISO / IEC 15504)

@@ -1,0 +1,10 @@
+Trabalho 1
+Trabalho escrito com 4 páginas descrevendo a história, organização interna,
+ parcerias, objetivos e responsabilidades de um dos seguintes órgãos 
+internacionais: IEEE, 3GPP, W3C, ETSI, ITU
+
+Obs.:
+
+* Grupos com no máximo 3 participantes
+
+** Informar os nomes de todos os membros da equipe no trabalho escrito.
