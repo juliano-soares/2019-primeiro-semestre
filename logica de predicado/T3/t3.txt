@@ -1,0 +1,49 @@
+- QUESTÃO 1 
+Considerando que Maria e Mário brigaram:
+
+“Supõe-se que Maria está em tal situação que ela estaria disposta a perdoar Mário, só se Mário estivesse disposto a perdoá-la; e que Mário está em tal situação que ele não estaria disposto a perdoar Maria, se Maria estivesse disposta a perdoá-lo, mas estaria disposto a perdoar Maria, se Maria não estivesse disposta a perdoá-lo.”
+
+Considerando:
+
+P1: “Supõe-se que Maria está em tal situação que ela estaria disposta a perdoar Mário, só se Mário estivesse disposto a perdoá-la;”
+
+P2: “Mário está em tal situação que ele não estaria disposto a perdoar Maria, se Maria estivesse disposta a perdoá-lo, mas estaria disposto a perdoar Maria, se Maria não estivesse disposta a perdoá-lo.”
+
+Responda, utilizando o método do Teorema da Contradição, a seguinte pergunta:
+
+(Q)             Maria está disposta a perdoar Mário?
+
+RESPOSTA:
+
+A = Maria está disposta a perdoar Mário
+B = Mário está disposto a perdoar Maria
+
+P1: A <-> B
+P2: (A -> !B) or (!A -> B)
+
+FALTA TERMINAR AQUI A 1
+
+- QUESTÃO 2
+Considerando as seguintes proposições:
+
+P1: “Se está quente e seco, então terá sol.”
+
+P2: “Se está seco, então está quente.”
+
+P3: “Está seco agora.”
+
+Responda, utilizando o método do Teorema da Dedução, a seguinte pergunta:
+
+(Q)              Vai ter sol?
+
+RESPOSTA:
+
+A = Está seco
+B = Está quente
+C = Vai ter sol
+
+P1: A ^ B -> C
+P2: A -> B
+P3: A
+
+P3 afirma que A é verdadeiro. P2 afirma que se A é verdadeiro, então B é verdadeiro. Como A é verdadeiro, então B também é. P1 afirma que se A e B são verdadeiros (e são!), C vai ser verdadeiro. Logo, terá sol, pois segundo o Teorema da Dedução, (P1 ^ P2 ^ P3) = V.
