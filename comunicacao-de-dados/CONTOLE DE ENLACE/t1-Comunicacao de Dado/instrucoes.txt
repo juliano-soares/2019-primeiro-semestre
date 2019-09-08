@@ -1,0 +1,5 @@
+O programa podera ser executado 
+
+1-importando este projeto no netbeans
+2-compilando estes arquivos java via terminal
+3-ou executando apenas o .jar
